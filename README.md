@@ -21,29 +21,34 @@
 ---
 
 ## Basic Components Description : 
-1. World map : 我設計了兩種不同風格的地圖
-2. Player : 玩家可以在遊戲中移動和跳躍以及與questionbox互動
-3. Enemies : 有Goomba、turtle兩種敵人
-4. Question Blocks : 有綠色蘑菇以及紅色蘑菇以及金幣總計三種
-5. Animations : 玩家的走路、停止、跳躍動畫以及powerup後的動畫
-6. Sound effects : 變大的聲音，背景音樂及跳躍音效
-7. UI : 有分數、金幣、生命數等等
+1. World Map: I designed two different styles of world maps.
+
+2. Player: The player can move, jump, and interact with question boxes.
+
+3. Enemies: There are two types of enemies – Goomba and Turtle.
+
+4. Question Blocks: There are three types of items – green mushroom, red mushroom, and coins.
+
+5. Animations: The player has walking, idle, jumping animations, as well as animations for when powered up.
+
+6. Sound Effects: Includes power-up sounds, background music, and jump sound effects.
+
+
 
 ## Advanced Component Description : 
 
 Describe your advanced function and how to use it.
 
 SelectStage:
+I created a separate scene as the SelectStage, where Mario can be controlled to choose a level and view the leaderboard.
 
-我用了一個場景作為SelectStage，在該場景可操控馬力歐選擇關卡與觀看排行榜。
-
-排行榜:
-
-在SelectStage裡面中間有個排行榜，會顯示最高排名前五的玩家，只要靠近告示牌並按下E便能查看排行榜。
+Leaderboard:
+In the center of the SelectStage, there is a leaderboard that displays the top five players. Simply move close to the signboard and press E to view the leaderboard.
 
 POWERUP:
+The third type of item. When collected, Mario becomes larger. The next time he is hit by an enemy, he will shrink instead of dying immediately.
 
-第三種道具，吃了之後馬力歐會變大，且下次遭受敵人攻擊不會直接死而是變小。
+
 
 # Firebase page link
 
