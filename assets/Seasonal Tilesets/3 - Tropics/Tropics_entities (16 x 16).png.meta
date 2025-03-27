@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "4bc71cf0-4e57-4a74-ac2a-91fe23c5f18c",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 272,
+  "height": 144,
+  "platformSettings": {},
+  "subMetas": {
+    "Tropics_entities (16 x 16)": {
+      "ver": "1.0.6",
+      "uuid": "303e1e13-d108-4881-8ad8-0e6d7b4af8c0",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "4bc71cf0-4e57-4a74-ac2a-91fe23c5f18c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 3.5,
+      "offsetY": -11,
+      "trimX": 26,
+      "trimY": 27,
+      "width": 227,
+      "height": 112,
+      "rawWidth": 272,
+      "rawHeight": 144,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

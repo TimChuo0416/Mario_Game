@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "big-jump",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.21666666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "16a51833-04b2-4698-9315-f47661188333"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "2dadc939-3285-4fad-a37a-744515b2ce06"
+            }
+          },
+          {
+            "frame": 0.11666666666666667,
+            "value": {
+              "__uuid__": "a41e84b1-b779-4cb0-9813-8a7643e16ef9"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "5f713a0b-7279-48a1-a7d7-020dcbfb245c"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

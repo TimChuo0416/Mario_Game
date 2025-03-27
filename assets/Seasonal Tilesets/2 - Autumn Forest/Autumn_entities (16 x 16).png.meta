@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "d3f44a9d-8d3f-4eba-9ce3-82948d6dc386",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 320,
+  "height": 112,
+  "platformSettings": {},
+  "subMetas": {
+    "Autumn_entities (16 x 16)": {
+      "ver": "1.0.6",
+      "uuid": "aea7544d-80d8-4197-b4ca-574a64c44a2f",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "d3f44a9d-8d3f-4eba-9ce3-82948d6dc386",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1.5,
+      "offsetY": -0.5,
+      "trimX": 16,
+      "trimY": 17,
+      "width": 285,
+      "height": 79,
+      "rawWidth": 320,
+      "rawHeight": 112,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

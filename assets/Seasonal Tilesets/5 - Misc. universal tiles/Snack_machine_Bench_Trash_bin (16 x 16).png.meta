@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "46acaa4f-93c4-4c34-941d-7ed938667982",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 128,
+  "height": 64,
+  "platformSettings": {},
+  "subMetas": {
+    "Snack_machine_Bench_Trash_bin (16 x 16)": {
+      "ver": "1.0.6",
+      "uuid": "e9e74dbb-d084-4339-b056-48586c44cd33",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "46acaa4f-93c4-4c34-941d-7ed938667982",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": 0,
+      "trimX": 20,
+      "trimY": 16,
+      "width": 90,
+      "height": 32,
+      "rawWidth": 128,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
